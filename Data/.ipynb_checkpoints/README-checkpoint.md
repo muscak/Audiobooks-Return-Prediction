@@ -1,8 +1,8 @@
 # Audiobooks Purchase Dataset
 
-The sample dataset is taken from the *Section 51: Deep Learning - Business Case Example* of *The Data Science Course 2023: Complete Data Science Bootcamp* on [Udemy](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/). The dataset has 12 columns features to be used predicting the label which is Targets columns in the dataset. 
-
 You are given data from an audiobook app. Logically, it relates to the audio version of books only. Each customer in the database has made a purchase at least once. We want to create a machine learning algorithm based on our data that can predict if a customer will buy again from the audiobook company. In this dataset each row represents a person.
+
+The sample dataset is taken from the *Section 51: Deep Learning - Business Case Example* of *The Data Science Course 2023: Complete Data Science Bootcamp* on [Udemy](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/). The dataset has 12 columns features to be used predicting the label which is Targets columns in the dataset. The .csv file does not contain any column names. You can add the names of the columns as follows starting from the first column.
 
 ## Data Dictionary
 
